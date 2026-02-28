@@ -1,3 +1,1 @@
-# Justin's Github journey
-
-Learning Git like a beast🔥
+Working inside a branch now🌿
