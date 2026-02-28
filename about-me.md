@@ -1,3 +1,3 @@
 Learning pull requests now🌿
 
-i love backend development
+i love frontend development
